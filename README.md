@@ -11,13 +11,13 @@ This project analyzes the sentiment of Facebook posts using the Facebook Graph A
 Here are some images showing the project in action:
 
 - **Access Token Generation**
-  ![Access Token Generation](images/access_token_generation.png)
+  ![Access Token Generation](images/access_token_generation.png.png)
 
 - **Output FB_Sentiment Analysis**
-  ![Sentiment Analysis Output](images/output.png)
+  ![Sentiment Analysis Output](images/output.png.png)
 
 - **Website Screenshot**
-  ![Website Screenshot](images/website_screenshot.png)
+  ![Website Screenshot](images/website_screenshot.png.png)
 
 ## Prerequisites
 Before running the project, make sure you have the following installed:
@@ -60,9 +60,9 @@ Feel free to fork the repository and make pull requests. If you encounter any is
 ### Breakdown:
 1. **Images Section**: I've added a "Screenshots" section to display the images of the project, including access token generation, output, and website screenshots.
 2. **Markdown for Images**: Each image is inserted using `![Alt text](image_path)`
-   - ![Sentiment Analysis Output](images/output.png)
-   - ![Website Screenshot](images/website_screenshot.png)
-   -  ![Access Token Generation](images/access_token_generation.png)
+   - ![Sentiment Analysis Output](images/output.png.png)
+   - ![Website Screenshot](images/website_screenshot.png.png)
+   -  ![Access Token Generation](images/access_token_generation.png.png)
 6. **Image Paths**: Make sure that the `images/` folder and the images inside it (like `access_token_generation.png`, `output.png`, etc.) exist in your repository.
 
 You can add or modify image paths as per your actual directory structure. Just ensure the images are in the right
